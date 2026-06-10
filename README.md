@@ -43,4 +43,4 @@ App Store: URLを入れる
 
 ## Contact
 
-Email: 作ったGmail
+Email: tm.developer58@gmail.com
