@@ -1,16 +1,46 @@
-## Hi there 👋
+# Flutter / Firebase Developer
 
-<!--
-**tm-developer58/tm-developer58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Flutter / Firebaseを中心に個人開発をしています。  
+独学でiOSアプリを複数リリースし、1つのアプリではアクティブユーザー約5,000人の運用経験があります。
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Flutter / Dart
+- Firebase Authentication
+- Cloud Firestore
+- Firebase Storage
+- Cloud Functions / TypeScript
+- App Storeリリース
+- 個人開発アプリの設計・開発・運用
+
+## Apps
+
+### TODOアプリ
+App Store: URLを入れる  
+概要: TODO管理アプリ  
+使用技術: Flutter / Firebase  
+担当: 設計・開発・リリース・運用
+
+### 音量調整アプリ
+App Store: URLを入れる  
+概要: 音楽・音量調整系アプリ  
+使用技術: Flutter  
+担当: 設計・開発・リリース・運用
+
+### レシピ保存・生成アプリ
+App Store: URLを入れる  
+概要: レシピの保存・生成を行うアプリ  
+使用技術: Flutter / Firebase / TypeScript  
+担当: 設計・開発・リリース・運用
+
+## Work Style
+
+- 週2〜3日程度
+- フルリモート希望
+- チャット中心のやり取り希望
+- 必要に応じて短時間のオンラインMTGは対応可能
+- デザイン制作よりも、設計・実装・Firebase連携が得意です
+
+## Contact
+
+Email: 作ったGmail
